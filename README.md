@@ -12,10 +12,11 @@ Basic structure of package is
 
 ```
 ├── README.md
-├── packagename
-│   ├── __init__.py
-│   ├── packagename.py
-│   └── version.py
+├── src
+    ├── packagename
+        ├── __init__.py
+        ├── packagename.py
+        └── version.py
 ├── pytest.ini
 ├── requirements.txt
 ├── setup.py
